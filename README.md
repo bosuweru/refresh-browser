@@ -2,13 +2,11 @@
 
 A VBScript that executes via a batch file and refreshes an active web browser.
 
-## Getting Started
+## Compatibility
 
-TBD.
-
-## Usage
-
-TBD.
+| Operating System | Web Browser   |
+| :--------------: | :-----------: |
+| TBD              | TBD           |
 
 ## Licensing
 
